@@ -1,4 +1,4 @@
-from id,to id,relationship,year
+from,to,relationship,year
 bs,ErstUnters,2,2017
 ft,DrUnters,2,2017
 co,SEFEP,3,2017
