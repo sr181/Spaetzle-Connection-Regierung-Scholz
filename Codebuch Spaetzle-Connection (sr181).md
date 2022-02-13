@@ -121,6 +121,6 @@ Gegencheck: https://www.abgeordnetenwatch.de/
 7 = Studienort in In- und Ausland
 
 **year** 
-(Bezieht sich auf das Jahr, in dem die Variable relationship erhoben wurde)
+(Bezieht sich auf das Jahr, in dem die Variable relationship anfängt)
 
 ##
