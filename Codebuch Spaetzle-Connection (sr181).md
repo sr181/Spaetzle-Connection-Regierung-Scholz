@@ -1,7 +1,7 @@
 # 226309 PV Grundlagen sozialer Netzwerkanalyse
 
 # Datensatz Spaetzle-Connection-Regierung-Scholz
-Codebuch Stand 2022-02, aktualisiert 2022-02
+Codebuch Stand 2022-02, aktualisiert 2022-02,
 erstellt von Sara Rozic (sr181)
 
 ## Inhalt
