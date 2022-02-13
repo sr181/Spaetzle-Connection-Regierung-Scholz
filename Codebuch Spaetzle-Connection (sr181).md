@@ -112,7 +112,7 @@ Gegencheck: https://www.abgeordnetenwatch.de/
 (id)
 
 **relationship**
-1 = Ministerium (auch angegliedert als Staatsekretär:in)
+1 = Ministerium (auch angegliedert als Staatsekretär:in),
 2 = politische Funktionen,
 3 = Ehrenamt,
 4 = Unternehmen und Aufsichtsräte,
